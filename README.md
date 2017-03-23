@@ -1,6 +1,6 @@
 # Instagram_Instafeed How it works
 
-### How to get Instagram images on to website using instafeed.
+### How to get Instagram images on to website using instafeed.js
 
 ## Step 1: Register A New Client
 
