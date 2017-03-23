@@ -1,11 +1,11 @@
 # Instagram_Instafeed How it works
 
-###How to get Instagram images on to website using instafeed.
+### How to get Instagram images on to website using instafeed.
 
-##Step 1: Register A New Client
+## Step 1: Register A New Client
 
 1.Register as a new Client with the instagram developer website.
-..* vist [This Link](https://www.instagram.com/developer/) and login to your account.
+⋅⋅* vist [This Link](https://www.instagram.com/developer/) and login to your account.
 
 2.Complete the form, here’s a break down of what each field is (Screen Shot below):
 
