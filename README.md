@@ -10,7 +10,9 @@
 2.Complete the form, here’s a break down of what each field is (Screen Shot below):
 
 ..1. Application Name: An arbitrary descriptive name for your App (e.g. ‘Blog’ or ‘my_app’)
+<br>
 ..2. Description: A description of your app or service (e.g. ‘My life through my Blog’ or ‘App about beer’)
+<br>
 ..3. Company Name: The company name... duh! or if its a personal site or app, Just use something simple like your name.
 ..4. Website Url: The Url of the site or application. This works for local websites still in production too!
 ..5. Valid redirect URIs: This field is another website url, it is simply the address to which users will be redirected after they are asked by Instagram to confirm or deny access to the account.
