@@ -39,7 +39,7 @@
 
 5. Copy the access_token and store it somewhere to copy for later use. 
 
-##Applying the HTML & Javascript code.
+## Applying the HTML & Javascript code.
 
 ```HTML
 <div id="instafeed">&nbsp;</div>
