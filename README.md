@@ -29,9 +29,9 @@
 
 2. Replace the bits in UPPERCASE with the clientClient ID and Redirect URI you have open in another page. Then Hit Enter to submit the URL.
 
-..* ! If you get an error message about "implicit OAuth is disabled" go back to the instagram developer page and click "manage" > "Security" and uncheck "Disable implicit OAuth:"
+  * !!If you get an error message about "implicit OAuth is disabled" go back to the instagram developer page and click "manage" > "Security" and uncheck "Disable implicit OAuth:"
 
-..* Repeat Steps 1 & 2
+  * Repeat Steps 1 & 2
 
 3. After you have successfully achieved that, You will be prompted of a screen that says something like " Hi Bob, The beer app is requesting you do the following:".... Just click Authorize and the page will redirect you to the redirect URI you submitted when registering. 
 
