@@ -41,19 +41,20 @@
 
 ##Applying the HTML & Javascript code.
 
-`<div id="instafeed">&nbsp;</div>`
+```HTML
+<div id="instafeed">&nbsp;</div>
 
-`<p><script type="text/javascript" src="/themes/donnie/js/instafeed.min.js"></script><script>`
-`var feed = new Instafeed({`
-  `get: 'user',`
-  `userId: '20658065',`
-  `accessToken: '20658065.f61fb3b.9d9df46a18674371874cbf544d3f9f21',`
-  `resolution: 'low_resolution',`
-`});`
-`feed.run();`
-`console.log( "feed" + feed);`
+<p><script type="text/javascript" src="/themes/donnie/js/instafeed.min.js"></script><script>
+var feed = new Instafeed({
+  get: 'user',
+  userId: '20658065',
+  accessToken: '20658065.f61fb3b.9d9df46a18674371874cbf544d3f9f21',
+  resolution: 'low_resolution',
+});
+feed.run();
+console.log( "feed" + feed);
 
-`</script></p>`
-
+</script></p>
+```
 
 
